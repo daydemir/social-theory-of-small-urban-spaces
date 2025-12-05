@@ -18,7 +18,7 @@ We can describe a moment where co-presence occurs between two individuals as an 
 
 For our purposes, we should focus only on co-presence that can be uncontroversially defined as non-interactive. This means that the strongest co-presence we will consider ambient is an event where person A consciously observes person B, and person A has no knowledge of whether B reciprocated in any conscious noticing of A. Considering ambient co-presence this way allows us to guarantee that any impact an A from the event is irrespective of B's actions. If A consciously sees B acknowledging or responding to A in any way, then we will not consider that event to be one of ambient co-presence. For example, if A and B make eye contact their interaction is no longer only ambient.
 
-This means the whole event is lived inside A's own mind, and any impacts on A occur solely in A's imagination. In a purely ambient co-presence event, nothing is enacted or tested outside the mind. Still, these encounters do shape our perception. We can also then differentiate between the observer (A) and the subject (B) in any ambient co-presence event.
+This means the whole event is experienced inside A's own mind, and any impacts on A occur solely in A's imagination. In a purely ambient co-presence event, nothing is enacted or tested outside the mind. Still, these encounters do shape our perception. We can also then differentiate between the observer (A) and the subject (B) in any ambient co-presence event.
 
 We have described a one-sided, conscious observation as an example of an ambient co-presence event. But we can also include the unconscious or subconscious noticing of others as well. ambient co-presence could also be described by B sitting in A's peripheral vision, with no need for A to consciously observe or even acknowledge to themselves the presence of B. This allows us to differentiate two types of ambient co-presence: conscious and unconscious.
 
@@ -28,7 +28,7 @@ Let's see the types of ambient co-presence we've described here.
 
 [table of types of ambient copresence]
 
-This 
+This is not a 
 
 no question about impact on aesthetics, see fashion
 
@@ -41,6 +41,9 @@ what about impact on norms, coleman
 
 imagined communities / solidarity
  - familiar events create solidarity
+
+
+mental health benefits
 
 
 

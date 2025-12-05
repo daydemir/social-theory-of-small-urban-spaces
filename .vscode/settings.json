@@ -3,6 +3,11 @@
     // Shows word count in status bar on save
     "latex-workshop.texcount.autorun": "onSave",
 
+    // Word wrap for LaTeX files
+    "[latex]": {
+        "editor.wordWrap": "on"
+    },
+
     // Note: For selection-based word count in Markdown and LaTeX:
     // - In VS Code: The "Selection Word Count" extension is installed and will show
     //   word count of selected text automatically in the status bar
