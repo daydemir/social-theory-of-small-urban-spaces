@@ -1,0 +1,12 @@
+{
+    // LaTeX Workshop word count settings (for .tex files)
+    // Shows word count in status bar on save
+    "latex-workshop.texcount.autorun": "onSave",
+
+    // Note: For selection-based word count in Markdown and LaTeX:
+    // - In VS Code: The "Selection Word Count" extension is installed and will show
+    //   word count of selected text automatically in the status bar
+    // - In Cursor: The extension marketplace is limited. You may need to:
+    //   1. Manually install the VSIX from https://marketplace.visualstudio.com/items?itemName=witulski.selection-word-count
+    //   2. Or use VS Code for editing when you need selection word counts
+}
