@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  5 DEC 2025 00:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  5 DEC 2025 03:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -290,13 +290,15 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \mathdisplay@stack=\toks26
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
 )
-LaTeX Font Info:    Trying to load font information for T1+Crimson-TLF on input line 24.
+LaTeX Font Info:    Trying to load font information for T1+Crimson-TLF on input line 31.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/crimson/T1Crimson-TLF.fd
 File: T1Crimson-TLF.fd 2024/12/08 (autoinst) Font definitions for T1/Crimson-TLF.
 )
 LaTeX Font Info:    Font shape `T1/Crimson-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 24.
+(Font)              scaled to size 12.0pt on input line 31.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count303
@@ -304,24 +306,24 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 ) (./draft.aux)
 \openout1 = `draft.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
 \c@mv@tabular=\count304
 \c@mv@boldtabular=\count305
 
@@ -384,62 +386,82 @@ Package grfext Info: Graphics extension search list:
  (/usr/local/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 24.
+Package hyperref Info: Link coloring OFF on input line 31.
  (./draft.out) (./draft.out)
 \@outlinefile=\write3
 \openout3 = `draft.out'.
 
 LaTeX Font Info:    Font shape `T1/Crimson-TLF/m/n' will be
-(Font)              scaled to size 20.74pt on input line 27.
+(Font)              scaled to size 20.74pt on input line 34.
 LaTeX Font Info:    Font shape `T1/Crimson-TLF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 27.
+(Font)              scaled to size 24.88pt on input line 34.
 LaTeX Font Info:    Font shape `T1/Crimson-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 27.
-LaTeX Font Info:    Font shape `T1/Crimson-TLF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 29.
-LaTeX Font Info:    Font shape `T1/Crimson-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 37.
+(Font)              scaled to size 14.4pt on input line 34.
 LaTeX Font Info:    Font shape `T1/Crimson-TLF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 37.
+(Font)              scaled to size 14.4pt on input line 35.
+LaTeX Font Info:    Font shape `T1/Crimson-TLF/m/it' will be
+(Font)              scaled to size 12.0pt on input line 36.
 
 
 [1
 
-{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/crimson/crm_ltoc2m.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/crimson/crm_dl3wd7.enc}]
+{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/crimson/crm_ltoc2m.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/crimson/crm_st6vdm.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/crimson/crm_dl3wd7.enc}]
+LaTeX Font Info:    Font shape `T1/Crimson-TLF/m/n' will be
+(Font)              scaled to size 17.28pt on input line 46.
 LaTeX Font Info:    Font shape `T1/Crimson-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 47.
+(Font)              scaled to size 17.28pt on input line 46.
 
 
-[2{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/crimson/crm_st6vdm.enc}]
+[2]
+
+[3]
 LaTeX Font Info:    Font shape `T1/Crimson-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 64.
+(Font)              scaled to size 12.0pt on input line 87.
 
+
+[4]
+
+[5]
+
+[6]
+Underfull \hbox (badness 1248) in paragraph at lines 154--155
+\T1/Crimson-TLF/m/n/12 fa-mil-iar-ity into com-fort? And is am-bi-ent fa-mil-iar-ity re-ally suf-fi-cient or nec-es-sary to fos-ter
+ []
+
+
+Underfull \hbox (badness 1776) in paragraph at lines 158--159
+\T1/Crimson-TLF/m/n/12 be-lieve that recog-ni-tion cre-ates a re-cip-ro-cal sig-nal of ac-cep-tance in the in-group, but they
+ []
+
+
+
+[7]
+
+[8]
 No file draft.bbl.
 
 
-[3]
-
-[4] (./draft.aux)
+[9] (./draft.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `draft.out' has not changed.
-(rerunfilecheck)             Checksum: 3C4523AA90A182371222914DF97602E5;2415.
+(rerunfilecheck)             Checksum: 998EF721847305AF84C328D019418862;3227.
  ) 
 Here is how much of TeX's memory you used:
- 10950 strings out of 473190
- 170122 string characters out of 5715801
- 573653 words of memory out of 5000000
- 34029 multiletter control sequences out of 15000+600000
+ 10999 strings out of 473190
+ 171202 string characters out of 5715801
+ 573414 words of memory out of 5000000
+ 34066 multiletter control sequences out of 15000+600000
  618409 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,79p,743b,466s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,8n,79p,743b,465s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/kosch/crimson/Crimson-Bold.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/kosch/crimson/Crimson-Italic.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/kosch/crimson/Crimson-Roman.pfb>
-Output written on draft.pdf (4 pages, 95763 bytes).
+Output written on draft.pdf (9 pages, 104457 bytes).
 PDF statistics:
- 101 PDF objects out of 1000 (max. 8388607)
- 88 compressed objects within 1 object stream
- 19 named destinations out of 1000 (max. 500000)
- 105 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 138 PDF objects out of 1000 (max. 8388607)
+ 119 compressed objects within 2 object streams
+ 28 named destinations out of 1000 (max. 500000)
+ 129 words of extra memory for PDF output out of 10000 (max. 10000000)
 
