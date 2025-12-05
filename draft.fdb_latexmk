@@ -1,5 +1,5 @@
 # Fdb version 4
-["bibtex draft"] 0 "draft.aux" "draft.bbl" "draft" 1764924537.95514 0
+["bibtex draft"] 0 "draft.aux" "draft.bbl" "draft" 1764929772.46088 0
   "/usr/local/texlive/2025/texmf-dist/bibtex/bst/base/apalike.bst" 1292289607 24635 604dafcc79f521a11ea73e506e1fbd98 ""
   "draft.aux" 0 -1 0 "pdflatex"
   "references.bib" 0 -1 0 ""
@@ -7,8 +7,8 @@
   "draft.bbl"
   "draft.blg"
   (rewritten before read)
-["pdflatex"] 1764924537.10372 "/Users/deniz/Build/mit/social/draft.tex" "draft.pdf" "draft" 1764924537.95529 0
-  "/Users/deniz/Build/mit/social/draft.tex" 1764924536.91756 15416 cac9be1dff759515bf39f3c8fdd8f02d ""
+["pdflatex"] 1764929771.59285 "/Users/deniz/Build/mit/social/draft.tex" "draft.pdf" "draft" 1764929772.46103 0
+  "/Users/deniz/Build/mit/social/draft.tex" 1764929770.50302 20457 4d9b70bfa841c61ac1765dc33a4daab1 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/crimson/crm_dl3wd7.enc" 1733692028 2927 5bacef46451e99338d43c1dba9c4586e ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/crimson/crm_ltoc2m.enc" 1733692028 2931 9642f73ddbf49a1e29fcd5d3396b18fe ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/crimson/crm_st6vdm.enc" 1733692028 2817 ac5842718b83ab4692f030b59763fcfd ""
@@ -76,6 +76,7 @@
   "/usr/local/texlive/2025/texmf-dist/tex/latex/crimson/crimson.sty" 1733692028 3467 f1201eb64b21f93cff04ef25d8f567af ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1579991033 13886 d1306dcf79a944f6988e688c1785f9ce ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty" 1739306980 46850 d87daedc2abdc653769a6f1067849fe0 ""
+  "/usr/local/texlive/2025/texmf-dist/tex/latex/float/float.sty" 1137110151 6749 16d2656a1984957e674b149555f1ea1d ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/fontaxes/fontaxes.sty" 1595539507 14310 41fdb35c51be792ddf00696848d0cfef ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty" 1578002852 41601 9cf6c5257b1bc7af01a58859749dd37a ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg" 1465944070 1224 978390e9c2234eab29404bc21b268d1e ""
@@ -107,10 +108,10 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1745702566 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1741450574 3345740 46b66fdb0378f7bf5921b5eabf1762b8 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "draft.aux" 1764924537.66538 2538 db3b4390c2a7cf14772b83254eb2c5db "pdflatex"
+  "draft.aux" 1764929772.16624 2157 a553fec753caf5668d23daaec6da6085 "pdflatex"
   "draft.bbl" 0 -1 0 "bibtex draft"
-  "draft.out" 1764924537.66589 3227 998ef721847305af84c328d019418862 "pdflatex"
-  "draft.tex" 1764924536.91756 15416 cac9be1dff759515bf39f3c8fdd8f02d ""
+  "draft.out" 1764929772.1667 2850 5c6c2678d7b160e263425744d9c39bbf "pdflatex"
+  "draft.tex" 1764929770.50302 20457 4d9b70bfa841c61ac1765dc33a4daab1 ""
   (generated)
   "draft.aux"
   "draft.log"
