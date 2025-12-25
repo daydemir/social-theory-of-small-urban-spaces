@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  5 DEC 2025 05:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  25 DEC 2025 13:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -179,6 +179,7 @@ File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
+Package hyperref Info: Option `colorlinks' set `true' on input line 4040.
 Package hyperref Info: Hyper figures OFF on input line 4157.
 Package hyperref Info: Link nesting OFF on input line 4162.
 Package hyperref Info: Hyper index ON on input line 4165.
@@ -205,7 +206,7 @@ Package hyperref Info: Hyper figures OFF on input line 6042.
 Package hyperref Info: Link nesting OFF on input line 6047.
 Package hyperref Info: Hyper index ON on input line 6050.
 Package hyperref Info: backreferencing OFF on input line 6057.
-Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring ON on input line 6060.
 Package hyperref Info: Link coloring with OCG OFF on input line 6067.
 Package hyperref Info: PDF/A mode OFF on input line 6072.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/base/atbegshi-ltx.sty
@@ -392,8 +393,14 @@ Package grfext Info: Graphics extension search list:
 (grfext)             \AppendGraphicsExtensions on input line 504.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
-))
-Package hyperref Info: Link coloring OFF on input line 32.
+)) (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2024/06/23 v1.3e Standard LaTeX Color (DPC)
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+Package hyperref Info: Link coloring ON on input line 32.
  (./draft.out) (./draft.out)
 \@outlinefile=\write3
 \openout3 = `draft.out'.
@@ -408,6 +415,12 @@ LaTeX Font Info:    Font shape `T1/Crimson-TLF/b/n' will be
 (Font)              scaled to size 14.4pt on input line 36.
 LaTeX Font Info:    Font shape `T1/Crimson-TLF/m/it' will be
 (Font)              scaled to size 12.0pt on input line 37.
+LaTeX Font Info:    Font shape `T1/Crimson-TLF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 37.
+LaTeX Font Info:    Font shape `T1/Crimson-TLF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 37.
+LaTeX Font Info:    Font shape `T1/Crimson-TLF/m/n' will be
+(Font)              scaled to size 7.0pt on input line 37.
 
 
 [1
@@ -423,29 +436,29 @@ LaTeX Font Info:    Font shape `T1/Crimson-TLF/b/n' will be
 
 [3]
 LaTeX Font Info:    Font shape `T1/Crimson-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 83.
+(Font)              scaled to size 12.0pt on input line 84.
 
-Overfull \hbox (28.96213pt too wide) in paragraph at lines 81--90
+Overfull \hbox (28.96213pt too wide) in paragraph at lines 82--93
  [][] 
  []
 
 
 
 [4]
-Underfull \hbox (badness 2698) in paragraph at lines 112--112
+Underfull \hbox (badness 2698) in paragraph at lines 113--113
 []\T1/Crimson-TLF/b/n/17.28 Ambient co-presence ac-ti-vates our imag-i-na-tion of ur-ban
  []
 
 
 
 [5]
-Underfull \hbox (badness 1248) in paragraph at lines 118--119
-\T1/Crimson-TLF/m/n/12 fa-mil-iar-ity into com-fort? And is am-bi-ent fa-mil-iar-ity re-ally suf-fi-cient or nec-es-sary to fos-ter
+Underfull \hbox (badness 2213) in paragraph at lines 117--118
+\T1/Crimson-TLF/m/n/12 events. Fa-mil-iar am-bi-ent co-presence es-pe-cially sup-ports this hy-poth-e-sis. We know that
  []
 
 
-Underfull \hbox (badness 1776) in paragraph at lines 122--123
-\T1/Crimson-TLF/m/n/12 be-lieve that recog-ni-tion cre-ates a re-cip-ro-cal sig-nal of ac-cep-tance in the in-group, but they
+Underfull \hbox (badness 1248) in paragraph at lines 119--120
+\T1/Crimson-TLF/m/n/12 fa-mil-iar-ity into com-fort? And is am-bi-ent fa-mil-iar-ity re-ally suf-fi-cient or nec-es-sary to fos-ter
  []
 
 
@@ -459,30 +472,35 @@ Underfull \hbox (badness 1776) in paragraph at lines 122--123
 [9]
 
 [10]
-No file draft.bbl.
 
+[11] (./draft.bbl
+Underfull \hbox (badness 1735) in paragraph at lines 29--32
+[]\T1/Crimson-TLF/m/n/12 Madianou, M. (2016).  Am-bi-ent co-presence: Transna-tional fam-ily prac-tices in poly-media
+ []
 
-[11] (./draft.aux)
+)
+
+[12] (./draft.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `draft.out' has not changed.
-(rerunfilecheck)             Checksum: 5C6C2678D7B160E263425744D9C39BBF;2850.
+(rerunfilecheck)             Checksum: 931A8D698C9B6028802A90C27437CA99;2845.
  ) 
 Here is how much of TeX's memory you used:
- 11064 strings out of 473190
- 172158 string characters out of 5715801
- 574839 words of memory out of 5000000
- 34128 multiletter control sequences out of 15000+600000
- 618409 words of font info for 70 fonts, out of 8000000 for 9000
+ 11189 strings out of 473190
+ 174667 string characters out of 5715801
+ 577688 words of memory out of 5000000
+ 34228 multiletter control sequences out of 15000+600000
+ 622281 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,79p,818b,465s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,8n,79p,839b,466s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/kosch/crimson/Crimson-Bold.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/kosch/crimson/Crimson-Italic.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/kosch/crimson/Crimson-Roman.pfb>
-Output written on draft.pdf (11 pages, 111041 bytes).
+Output written on draft.pdf (12 pages, 118660 bytes).
 PDF statistics:
- 134 PDF objects out of 1000 (max. 8388607)
- 113 compressed objects within 2 object streams
- 27 named destinations out of 1000 (max. 500000)
+ 183 PDF objects out of 1000 (max. 8388607)
+ 161 compressed objects within 2 object streams
+ 39 named destinations out of 1000 (max. 500000)
  105 words of extra memory for PDF output out of 10000 (max. 10000000)
 
